@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:rotationX="4"
+    tools:context=".MainActivity">
+/*
+    <TextView
+        android:id="@+id/flashcardquestion_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:textSize="40sp"
+        android:text="Quel est la capital d'Haiti ?" />
+
+
+    <TextView
+        android:id="@+id/flashcard_ansewrtextview"
+        android:layout_below="@id/flashcardquestion_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:textSize="40sp"
+        android:text="Port-au-prince" />
+
+    <TextView
+        android:id="@+id/retourview"
+        android:layout_below="@id/flashcard_ansewrtextview"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:text="cliquer ici pour retourner" />
+
+</RelativeLayout>
