@@ -1,4 +1,4 @@
-# FlashCard-projet
+# FlashCard-projet vs2
 
 ## Lab 2
 
